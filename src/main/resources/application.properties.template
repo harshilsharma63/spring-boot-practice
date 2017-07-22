@@ -1,0 +1,4 @@
+# database configurations
+spring.datasource.url=jdbc:postgresql://<host>/<database_name>
+spring.datasource.username=<database_username>
+spring.datasource.password=<database.password>
